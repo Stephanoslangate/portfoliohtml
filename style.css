@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    padding: 120px 80px;
+}
+.section1{
+    height: 400px;
+    background-color: black;
+    color: white;
+}
+.card{
+    background-color: #292929;
+    margin-left: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 3px solid #292929;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+.card p{
+    text-align: center;
+}
+.icons{
+    font-size: 40px;
+}
